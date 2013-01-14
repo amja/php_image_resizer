@@ -1,1 +1,4 @@
-Test
+PHP Image Resizer
+===========
+
+PHP 
